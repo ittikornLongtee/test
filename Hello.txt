@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Hello GitHub 01
-6456456456456456456
-=======
-Hello GitHub 02
->>>>>>> parent of c4379cc... Revert "แก้ไข 02"
